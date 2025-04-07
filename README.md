@@ -25,6 +25,5 @@ A clean and responsive documentation website for HTML and CSS, built using **Rea
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/html-css-docs.git
-cd html-css-docs
+https://github.com/bhumiSundrani/HTML-CSS-Docs-Website.git
 
